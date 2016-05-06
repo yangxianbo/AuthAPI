@@ -1,0 +1,5 @@
+-4000 not jsonstring
+-4001 json value type wrong
+-4002 json key wrong
+-5000 init socket wrong
+-5001 connect socket wrong

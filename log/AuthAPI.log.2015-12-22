@@ -1,0 +1,5 @@
+[INFO] Tue, 22 Dec 2015 09:37:00 APIproxy.py 10.0.2.22 request scan_file ,messages is {"path_list": ["/opt/Transtool_Server", "/data/software"], "exclude": ".md5|.txt|.flv\\.|.ts\\."}
+[INFO] Tue, 22 Dec 2015 09:37:00 APIproxy.py 127.0.0.1 request scan_file ,messages is {"path_list": ["/opt/Transtool_Server", "/data/software"], "exclude": ".md5|.txt|.flv\\.|.ts\\."}
+[INFO] Tue, 22 Dec 2015 11:36:35 APIproxy.py 10.0.2.22 request scan_file ,messages is {"path_list": ["/opt/Transtool_Server", "/data/software"], "exclude": ".md5|.txt|.flv\\.|.ts\\."}
+[INFO] Tue, 22 Dec 2015 11:36:35 APIproxy.py 10.0.2.39 request scan_file ,messages is {"path_list": ["/opt/Transtool_Server", "/data/software"], "exclude": ".md5|.txt|.flv\\.|.ts\\."}
+[ERROR] Tue, 22 Dec 2015 11:36:40 APIproxy.py 10.0.2.39 request scan_file ,messages is {"path_list": ["/opt/Transtool_Server", "/data/software"], "exclude": ".md5|.txt|.flv\\.|.ts\\."},return timed out

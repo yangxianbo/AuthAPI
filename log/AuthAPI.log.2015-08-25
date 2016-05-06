@@ -1,0 +1,16 @@
+[DEBUG] Tue, 25 Aug 2015 15:23:09 LONGserver.py accept connection from 127.0.0.1, 53578, fd = 6
+[DEBUG] Tue, 25 Aug 2015 15:23:09 LONGserver.py 127.0.0.1, 53578 closed
+[DEBUG] Tue, 25 Aug 2015 15:24:19 LONGserver.py accept connection from 127.0.0.1, 53579, fd = 6
+[DEBUG] Tue, 25 Aug 2015 15:24:19 LONGserver.py 6 receive {u'ip': u'10.0.2.22', u'data': u'heartbeat', u'key': u'6af50cd1e1d57ffc845ecb157c8faf01'}
+[DEBUG] Tue, 25 Aug 2015 15:24:24 LONGserver.py 6 receive {u'ip': u'10.0.2.22', u'data': u'heartbeat', u'key': u'6af50cd1e1d57ffc845ecb157c8faf01'}
+[DEBUG] Tue, 25 Aug 2015 15:24:29 LONGserver.py 6 receive {u'ip': u'10.0.2.22', u'data': u'heartbeat', u'key': u'6af50cd1e1d57ffc845ecb157c8faf01'}
+[DEBUG] Tue, 25 Aug 2015 15:24:34 LONGserver.py 6 receive {u'ip': u'10.0.2.22', u'data': u'heartbeat', u'key': u'6af50cd1e1d57ffc845ecb157c8faf01'}
+[DEBUG] Tue, 25 Aug 2015 15:24:39 LONGserver.py 6 receive {u'ip': u'10.0.2.22', u'data': u'heartbeat', u'key': u'6af50cd1e1d57ffc845ecb157c8faf01'}
+[DEBUG] Tue, 25 Aug 2015 15:24:44 LONGserver.py 6 receive {u'ip': u'10.0.2.22', u'data': u'heartbeat', u'key': u'6af50cd1e1d57ffc845ecb157c8faf01'}
+[DEBUG] Tue, 25 Aug 2015 15:24:49 LONGserver.py 6 receive {u'ip': u'10.0.2.22', u'data': u'heartbeat', u'key': u'6af50cd1e1d57ffc845ecb157c8faf01'}
+[DEBUG] Tue, 25 Aug 2015 15:24:54 LONGserver.py 6 receive {u'ip': u'10.0.2.22', u'data': u'heartbeat', u'key': u'6af50cd1e1d57ffc845ecb157c8faf01'}
+[DEBUG] Tue, 25 Aug 2015 15:24:59 LONGserver.py 6 receive {u'ip': u'10.0.2.22', u'data': u'heartbeat', u'key': u'6af50cd1e1d57ffc845ecb157c8faf01'}
+[DEBUG] Tue, 25 Aug 2015 15:25:04 LONGserver.py 6 receive {u'ip': u'10.0.2.22', u'data': u'heartbeat', u'key': u'6af50cd1e1d57ffc845ecb157c8faf01'}
+[DEBUG] Tue, 25 Aug 2015 15:25:09 LONGserver.py 6 receive {u'ip': u'10.0.2.22', u'data': u'heartbeat', u'key': u'6af50cd1e1d57ffc845ecb157c8faf01'}
+[DEBUG] Tue, 25 Aug 2015 15:25:14 LONGserver.py 6 receive {u'ip': u'10.0.2.22', u'data': u'heartbeat', u'key': u'6af50cd1e1d57ffc845ecb157c8faf01'}
+[DEBUG] Tue, 25 Aug 2015 15:25:17 LONGserver.py 10.0.2.22, 53579 closed
